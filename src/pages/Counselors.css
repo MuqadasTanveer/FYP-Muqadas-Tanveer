@@ -1,0 +1,32 @@
+.bg-4 {
+  background: url("https://images.pexels.com/photos/4427430/pexels-photo-4427430.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1")
+    /* background: url("https://images.pexels.com/photos/7176305/pexels-photo-7176305.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1") */
+    /* background: url("https://images.pexels.com/photos/4427613/pexels-photo-4427613.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1") */
+    no-repeat;
+  background-size: cover;
+  background-position: center 20%;
+  position: relative;
+}
+
+.search-bar {
+  width: 80% !important;
+  margin: 0 auto;
+}
+.counselor-card-container {
+  margin: 20% auto 5% auto;
+}
+.counselor-container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+@media (min-width: 640px) {
+  .search-bar {
+    width: 35% !important;
+    margin: 0 auto;
+  }
+  .counselor-card-container {
+    margin: 10% auto 5% auto;
+  }
+}

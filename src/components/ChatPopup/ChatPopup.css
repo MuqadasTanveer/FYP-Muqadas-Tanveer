@@ -1,0 +1,45 @@
+.popover {
+  margin-left: 30px;
+}
+.chat-content {
+  background-color: lightgray;
+  margin: 0;
+  padding: 0;
+}
+.messageContent {
+  height: 220px;
+  overflow: auto;
+}
+.message {
+  text-indent: 4px;
+}
+.message p {
+  background-color: skyblue;
+  border-radius: 5px;
+  color: #fff;
+  margin-left: 2px;
+  margin-right: 2px;
+  width: 150px;
+  /* overflow-wrap: break-word; */
+  padding: 5px;
+  /* word-break: break-word; */
+  font-size: 1rem;
+}
+
+.text-typing-area {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+textarea {
+  outline: none;
+  border: none;
+  border-radius: 10px;
+  padding: 5px 0px 0px 10px;
+}
+
+@media (min-width: 640px) {
+  .popover {
+    /* margin: 0px auto; */
+  }
+}

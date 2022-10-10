@@ -1,0 +1,23 @@
+.detail {
+  margin: 0 5%;
+}
+.counsellor-detail {
+  padding: 20px;
+  max-height: 90vh;
+  overflow: auto;
+  scroll-behavior: auto;
+  /* overflow-x: hidden; */
+  margin: 20px auto;
+}
+.counselee-detail {
+  padding: 20px;
+  height: 90vh;
+  overflow: auto;
+  margin: 20px auto;
+}
+@media (min-width: 640px) {
+  .detail {
+    display: flex;
+    justify-content: space-around;
+  }
+}

@@ -1,0 +1,32 @@
+.cardImg {
+  width: 5rem;
+  height: 5rem;
+  background-size: cover;
+  background-position: center center;
+  border-radius: 100%;
+}
+
+.service-block img {
+  height: 10rem !important;
+  width: 10rem !important;
+  border-radius: 100%;
+  background-size: cover;
+  margin-top: 0px !important;
+  border: 5px solid #fff;
+  position: relative;
+}
+.ratingIcon {
+  position: absolute;
+  top: 5%;
+  right: 10%;
+  color: skyblue;
+}
+.counselorInfo {
+  margin: 10px;
+}
+
+@media (min-width: 640px) {
+  .counselorInfo {
+    margin: 10px 0 20px 30px;
+  }
+}

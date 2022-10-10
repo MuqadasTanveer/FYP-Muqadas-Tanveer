@@ -1,0 +1,35 @@
+.reviewFormContainer {
+  position: fixed;
+  top: 30%;
+  left: 50%;
+  transform: translateX(-50%);
+  /* transform: translateY(-50%); */
+  z-index: 10;
+}
+.reviewForm {
+  width: 280px;
+  height: 250px;
+  color: black;
+  background-color: white;
+  padding: 30px 20px;
+  border-radius: 15px;
+  border: 1px solid rgba(0, 0, 0, 0.03);
+  box-shadow: 0 0 38px rgb(21 40 82 / 7%);
+}
+
+.reviewSubmit {
+  border: 0;
+  background-color: skyblue;
+  color: white;
+  padding: 5px 15px;
+  border-radius: 6px;
+  border: 1px solid rgba(0, 0, 0, 0.03);
+  box-shadow: 0 0 38px rgb(21 40 82 / 7%);
+}
+@media (min-width: 640px) {
+  .reviewForm {
+    width: 400px;
+    height: 300px;
+    padding: 60px;
+  }
+}

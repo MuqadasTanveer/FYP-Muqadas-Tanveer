@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Education Counseling",
+    "img": "https://images.pexels.com/photos/1462630/pexels-photo-1462630.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Science or Arts? Engineering or Pre-medical? Higher studies or Job? All of us at some point go through this problem.\nIf you are feeling clueless about what career you should pursue then you are in the right place.\n Telecounseling offers educational counseling to guide students, to make the right decision for their studies and choose the right career",
+    "listHead": "4 main cores of Telecounseling educational services",
+    "lists": [
+      "Education guidance and counseling",
+      "Career counseling",
+      "Scholarship counseling"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Substance Abuse Counseling",
+    "img": "https://images.pexels.com/photos/5723324/pexels-photo-5723324.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Substance abuse is the use of illegal drugs or the use of prescription or over-the-counter drugs or alcohol for purposes other than those for which they are meant to be used, or in excessive amounts.The Substance Abuse Counselor provides counseling and support to patients suffering from drug or alcohol dependency, educates families on the best ways to help in the recovery process, and works with both inpatient clients and those participating in an outpatient program. "
+  },
+  {
+    "id": 3,
+    "title": "Cognitive counseling",
+    "img": "https://images.pexels.com/photos/7516283/pexels-photo-7516283.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Cognitive-behavioral therapy (CBT) is a treatment approach that helps you recognize negative or unhelpful thought and behavior patterns. \n Why is online cognitive counseling best? \n Patients may participate in online therapy whenever and where ever they like, which provides the facility that may help depressed and shy patients who are reluctant to speak to a health care professional.",
+    "listHead": "Cognitive counseling treat problems including",
+    "lists": [
+      "Low self-esteem",
+      "Irrational fears ",
+      "Problem gambling ",
+      "Eating disorder",
+      "Insomnia",
+      "Marriage or relationship problemsInsomnia"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Mental health Counseling",
+    "img": "https://images.pexels.com/photos/4051574/pexels-photo-4051574.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Mental health counseling is a formal, purposeful partnership between a client and mental health professional.",
+    "listHead": "Telecounseling Mental health counseling provides counseling for a variety of mental disorders",
+    "lists": [
+      "Depression",
+      "Bipolar disorder",
+      "PTSD",
+      "Schizophrenia",
+      "Obsessive compulsory disorder OCD"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Bipolar disorder",
+    "img": "https://images.unsplash.com/photo-1620399353279-73133c96690d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "description": "Bipolar disorder is a mental disorder that causes changes in a person’s mood, energy, and ability to function.",
+    "listHead": "Bipolar disorder can be treated by",
+    "lists": ["Talk therapy", "Medication"]
+  },
+  {
+    "id": 6,
+    "title": "Post-Traumatic Stress Disorder (PTSD)",
+    "img": "https://images.pexels.com/photos/7176297/pexels-photo-7176297.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Post-Traumatic Stress Disorder (PTSD) is a psychiatric disorder that can diagnose to people who have passed through traumatic event like an inevitable accident, violence, failure and tragedy like rape or who have been threatened of death.",
+    "listHead": "Symptoms of PTSD",
+    "lists": [
+      "Dramatic nostalgia",
+      "Obtrusive thinking or impression",
+      "Insomnia",
+      "Incubus",
+      "Physical impact such as pain, sweating, nausea",
+      "Flashbacks of trauma"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Child-Centered play therapy",
+    "img": "https://images.pexels.com/photos/7447266/pexels-photo-7447266.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Online child-centered play therapy has the greatest impact on clients to help them to take services from their home in summer and when they are not able to go physically present in the center. Play is how children express their feelings and experiences and play in their way. The therapists observe them keenly and resolve their problems appropriately, and solve their psychological issues through play."
+  },
+  {
+    "id": 8,
+    "title": "Schizophrenia",
+    "img": "https://images.pexels.com/photos/2329794/pexels-photo-2329794.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Schizophrenia may result in some combination of hallucination, delusion, and extremely disordered thinking and behavior that impair daily functioning and can be disabling. People with schizophrenia require lifelong treatment.",
+    "listHead": "Symptoms of Schizophrenia",
+    "lists": [
+      "Delusions",
+      "Hallucination",
+      "Disorganized Speech",
+      "Catatonic behavior",
+      "Negative symptoms such as reduced emotional expressions"
+    ]
+  }
+]

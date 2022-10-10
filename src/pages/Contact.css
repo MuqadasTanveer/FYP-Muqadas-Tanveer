@@ -1,0 +1,69 @@
+.bg-2 {
+  /* background: url("https://images.pexels.com/photos/372042/pexels-photo-372042.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1") */
+  background: url("https://images.pexels.com/photos/914931/pexels-photo-914931.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1")
+    no-repeat 50% 50%;
+  background-size: cover;
+  /* background-position: center center; */
+  position: relative;
+}
+
+.overlay:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0.9;
+  background: #223a66;
+}
+.page-title {
+  padding: 100px 0px 50px 0px;
+}
+.content {
+  position: relative;
+  z-index: 5;
+}
+.text-white {
+  z-index: 5;
+  color: #fff !important;
+}
+.contact-form-container {
+  padding: 0% 4%;
+}
+.contact-form-card {
+  border-radius: 25px;
+  padding: 30px 0px 0px;
+  margin: 0px 0px 50px;
+  border: 1px solid rgba(0, 0, 0, 0.03);
+  box-shadow: 0 0 38px rgba(21, 40, 82, 0.07);
+}
+.contact-form {
+  width: 80%;
+  margin: 0 auto;
+}
+.map {
+  height: 400px;
+  margin-bottom: -8px;
+  width: 100%;
+}
+@media (min-width: 640px) {
+  .page-title {
+    padding: 120px 0px 70px 0px;
+  }
+  .map {
+    height: 600px;
+  }
+  .contact-form-container {
+    padding: 0% 5%;
+  }
+  .contact-form-card {
+    border-radius: 25px;
+    padding: 50px 0px 10px;
+    margin: 40px 0px 80px;
+    border: 1px solid rgba(0, 0, 0, 0.03);
+    box-shadow: 0 0 38px rgba(21, 40, 82, 0.07);
+  }
+}

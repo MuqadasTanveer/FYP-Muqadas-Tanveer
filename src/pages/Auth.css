@@ -1,0 +1,37 @@
+.auth-form {
+  padding: 0% 4%;
+}
+.form {
+  border-radius: 25px;
+  padding: 30px;
+  margin: 40px 0px;
+  border: 1px solid rgba(0, 0, 0, 0.03);
+  box-shadow: 0 0 38px rgba(21, 40, 82, 0.07);
+}
+@media (min-width: 640px) {
+  .auth-form {
+    padding: 10% 20%;
+  }
+  .form {
+    padding: 50px;
+    margin: 40px 0px;
+  }
+}
+@media (min-width: 768px) {
+  .auth-form {
+    padding: 10% 20%;
+  }
+  .form {
+    padding: 50px;
+    margin: 40px 0px;
+  }
+}
+@media (min-width: 1024px) {
+  .auth-form {
+    padding: 2% 35% 5%;
+  }
+  .form {
+    padding: 50px;
+    margin: 20px 0px;
+  }
+}

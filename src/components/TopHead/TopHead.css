@@ -1,0 +1,40 @@
+.header-top-bar {
+  background: #223a66;
+  font-size: 14px;
+  padding: 10px 0px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+  color: #fff;
+}
+
+.top-bar-info li a {
+  color: #fff;
+
+  margin-right: 20px;
+}
+
+.top-right-bar a span {
+  color: #fff;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+.top-right-bar a i {
+  color: #fff;
+  margin-right: 10px;
+}
+
+@media (max-width: 640px) {
+  .top-bar-info li {
+    margin: 5px auto;
+  }
+  .callNow {
+    margin: 0 auto !important;
+  }
+}
+
+.menu {
+  position: absolute;
+  margin-top: 1.5rem;
+  right: 8%;
+  top: 0;
+}

@@ -1,0 +1,19 @@
+.contactUsAdmin {
+  margin: 0 5%;
+}
+.contactUsAdminDetail {
+  max-height: 90vh;
+  overflow: auto;
+  scroll-behavior: auto;
+  /* overflow-x: hidden; */
+  padding: 10px;
+}
+@media (min-width: 640px) {
+  .contactUsAdmin {
+    margin: 0 auto;
+    width: 70vw;
+  }
+  .contactUsAdminDetail {
+    padding: 20px;
+  }
+}

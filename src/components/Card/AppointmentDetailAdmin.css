@@ -1,0 +1,32 @@
+.appointmentAdmin {
+  width: 240px;
+  border: 1px solid rgba(0, 0, 0, 0.03);
+  box-shadow: 0 0 20px rgba(21, 40, 82, 0.07);
+  border-radius: 10px;
+  padding: 20px;
+  margin: 10px 0px;
+}
+.appointmentAdmin:hover {
+  border: 1px solid rgba(135, 207, 235, 1);
+  box-shadow: 0 0 20px rgba(135, 207, 235, 0.07);
+}
+@media (min-width: 640px) {
+  .appointmentAdmin {
+    width: 150px;
+  }
+}
+@media (min-width: 768px) {
+  .appointmentAdmin {
+    width: 200px;
+  }
+}
+@media (min-width: 1024px) {
+  .appointmentAdmin {
+    width: 300px;
+  }
+}
+@media (min-width: 1200px) {
+  .appointmentAdmin {
+    width: 350px;
+  }
+}
