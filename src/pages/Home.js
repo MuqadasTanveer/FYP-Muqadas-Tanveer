@@ -110,11 +110,11 @@ const Home = () => {
                       <path d="M10.854 5.146a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 1 1 .708-.708L7.5 7.793l2.646-2.647a.5.5 0 0 1 .708 0z" />
                     </svg>
                   </div>
-                  <span>Free Trail</span>
-                  <h4 className="mb-3">+051-678-889</h4>
+                  <span>free Advice</span>
+                  <h4 className="mb-3">+92-333-1865645</h4>
                   <p>
-                    You can use our app to instantly get a free trail
-                    appointment for your mind health
+                    You can use our app to instantly get a free 
+                    Advice for your mind health
                   </p>
                 </div>
               </div>
@@ -286,9 +286,8 @@ const Home = () => {
                 <h2>Award winning counselee care</h2>
                 <div className="divider mx-auto my-4"></div>
                 <p>
-                  Lets know moreel necessitatibus dolor asperiores illum
-                  possimus sint voluptates incidunt molestias nostrum
-                  laudantium. Maiores porro cumque quaerat.
+                 Our most used services in All over the world that changes the 
+                most people lives
                 </p>
               </div>
             </div>
@@ -402,9 +401,8 @@ const Home = () => {
                 <h2>Partners who support us</h2>
                 <div className="divider mx-auto my-4"></div>
                 <p>
-                  Lets know moreel necessitatibus dolor asperiores illum
-                  possimus sint voluptates incidunt molestias nostrum
-                  laudantium. Maiores porro cumque quaerat.
+                 Our supportive partners who supprting  us on this 
+                 initiative
                 </p>
               </div>
             </div>

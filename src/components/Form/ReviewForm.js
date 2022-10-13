@@ -35,7 +35,7 @@ const ReviewForm = ({ counsellor_Id, rating_By }) => {
       <div className="reviewFormContainer">
         <form className="reviewForm" onSubmit={reviewFormHandler}>
           <h4 style={{ color: "skyBlue" }}>
-            Give ranking to that that Counselor
+            Give rating to that that Counselor
           </h4>
 
           <FormRow

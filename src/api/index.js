@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const url = "http://telecounseling.somee.com/api/";
+const url = "http://aminakiani-001-site1.itempurl.com/api/";
 
 const api = axios.create({
   baseURL: url,
